@@ -17,16 +17,16 @@ const SearchBar = ({ setSearchQuery }) => {
   };
 
   return (
-    <div className="input-group mb-3">
+    <div className="input-group mb-3 shadow-sm">
       <input
         type="text"
-        className="form-control shadow-sm"
+        className="form-control"
         placeholder="Search by first name, last name, or SSN"
         value={query}
         onChange={handleChange}
       />
       <div className="input-group-append">
-        <button className="btn btn-primary shadow" onClick={handleSearch}>Search</button>
+        <button className="btn btn-primary" onClick={handleSearch}>Search</button>
       </div>
     </div>
   );
