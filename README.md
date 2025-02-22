@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PROJECT NAME: React User Explorer
 
 Description: A ReactJS-based frontend application that performs free text searches on user data fetched from a backend API. The application displays results in a responsive grid format and includes client-side sorting and filtering functionalities. This project follows clean code practices, implements atomic design principles, handles exceptions gracefully, and externalizes configuration parameters.
@@ -21,7 +20,3 @@ Install dependencies: npm install
 
 Start the development server: npm start
 Open the application in your browser: http://localhost:3000
-=======
-# react-user-explorer
-A ReactJS-based frontend application that performs free text searches on user data fetched from a backend API.
->>>>>>> 2658fa1d6ad970e988f731c9feb5887e642d598f
