@@ -20,3 +20,7 @@ Install dependencies: npm install
 
 Start the development server: npm start
 Open the application in your browser: http://localhost:3000
+
+#RESULT
+![Result](https://github.com/user-attachments/assets/df7da39e-abfa-4f8c-ade6-fa8636ab4dd8)
+![result1](https://github.com/user-attachments/assets/4c2db199-f116-4ec0-809b-f2a5f5dcda58)
