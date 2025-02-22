@@ -10,11 +10,16 @@ const App = () => {
 
   useEffect(() => {
     if (searchQuery.length >= 3) {
-      fetch(`http://localhost:5000/users?q=${searchQuery}`)
+      fetch(`http://localhost:5000/users`)
         .then(response => response.json())
         .then(data => {
-          setUsers(data);
-          setSortedUsers(data);
+          const filteredData = data.filter(user => 
+            user.firstName.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            user.lastName.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            user.ssn.toLowerCase().includes(searchQuery.toLowerCase())
+          );
+          setUsers(filteredData);
+          setSortedUsers(filteredData);
         })
         .catch(error => console.error('Error fetching users:', error));
     }

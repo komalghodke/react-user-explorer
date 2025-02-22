@@ -10,7 +10,20 @@
       { "id": 8, "firstName": "Chanchal", "lastName": "Jii", "ssn": "456-78-9123", "age": 31, "role": "user" },
       { "id": 9, "firstName": "Yaman", "lastName": "Rag", "ssn": "456-78-9163", "age": 26, "role": "user" },
       { "id": 10, "firstName": "Rishabh", "lastName": "Pant", "ssn": "453-78-1423", "age": 23, "role": "user" },
-      { "id": 11, "firstName": "Karan", "lastName": "Akaran", "ssn": "446-78-9023", "age": 40, "role": "user" }
+      { "id": 11, "firstName": "Karan", "lastName": "Akaran", "ssn": "446-78-9023", "age": 40, "role": "user" },
+      { "id": 12, "firstName": "tenaliram", "lastName": "krishna", "ssn": "989-65-4321", "age": 35, "role": "user" },
+      { "id": 13, "firstName": "ramcharan", "lastName": "singh", "ssn": "987-60-4321", "age": 38, "role": "user" },
+      { "id": 14, "firstName": "ramji", "lastName": "shah", "ssn": "987-65-4301", "age": 25, "role": "user" },
+      { "id": 15, "firstName": "rampreet", "lastName": "kaur", "ssn": "987-65-4320", "age": 22, "role": "user" },
+      { "id": 16, "firstName": "preetniram", "lastName": "sriram", "ssn": "907-65-4321", "age": 18, "role": "user" },
+      { "id": 17, "firstName": "shreeram", "lastName": "sihha", "ssn": "987-05-4021", "age": 17, "role": "user" },
+      { "id": 18, "firstName": "ramitJi", "lastName": "Ji", "ssn": "987-65-0321", "age": 50, "role": "user" },
+      { "id": 19, "firstName": "Mataji", "lastName": "Divine", "ssn": "887-65-4321", "age": 36, "role": "user" },
+      { "id": 20, "firstName": "Pitaji", "lastName": "Divine", "ssn": "977-65-8321", "age": 27, "role": "user" },
+      { "id": 21, "firstName": "GentleKomal", "lastName": "Divine", "ssn": "977-65-8320", "age": 24, "role": "admin" },
+      { "id": 22, "firstName": "HumbleKomal", "lastName": "Divine", "ssn": "977-65-8301", "age": 25, "role": "admin" },
+      { "id": 23, "firstName": "BlessedKomal", "lastName": "Divine", "ssn": "977-65-0321", "age": 26, "role": "admin" },
+      { "id": 24, "firstName": "GrateFulKomal", "lastName": "Divine", "ssn": "977-65-8001", "age": 22, "role": "admin" }
     ]
   }
   
