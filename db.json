@@ -1,0 +1,16 @@
+{
+    "users": [
+      { "id": 1, "firstName": "Komal", "lastName": "Ghodke", "ssn": "123-45-6789", "age": 24, "role": "admin" },
+      { "id": 2, "firstName": "KG", "lastName": "Bliss", "ssn": "987-65-4321", "age": 25, "role": "user" },
+      { "id": 3, "firstName": "AG", "lastName": "HealthyMan", "ssn": "456-78-9123", "age": 19, "role": "admin" },
+      { "id": 4, "firstName": "RG", "lastName": "GoodMan", "ssn": "459-78-9123", "age": 29, "role": "user" },
+      { "id": 5, "firstName": "CG", "lastName": "Joy", "ssn": "456-77-9123", "age": 21, "role": "user" },
+      { "id": 6, "firstName": "Siya", "lastName": "Raman", "ssn": "756-78-9123", "age": 18, "role": "user" },
+      { "id": 7, "firstName": "Nishchal", "lastName": "Man", "ssn": "556-78-9123", "age": 17, "role": "user" },
+      { "id": 8, "firstName": "Chanchal", "lastName": "Jii", "ssn": "456-78-9123", "age": 31, "role": "user" },
+      { "id": 9, "firstName": "Yaman", "lastName": "Rag", "ssn": "456-78-9163", "age": 26, "role": "user" },
+      { "id": 10, "firstName": "Rishabh", "lastName": "Pant", "ssn": "453-78-1423", "age": 23, "role": "user" },
+      { "id": 11, "firstName": "Karan", "lastName": "Akaran", "ssn": "446-78-9023", "age": 40, "role": "user" }
+    ]
+  }
+  
