@@ -15,10 +15,13 @@ Features:
 Setup and Usage:
 
 Clone the repository: git clone https://github.com/komalghodke/react-user-explorer.git
+
 Navigate to the project directory: cd react-user-explorer
+
 Install dependencies: npm install
 
 Start the development server: npm start
+
 Open the application in your browser: http://localhost:3000
 
 #RESULT
